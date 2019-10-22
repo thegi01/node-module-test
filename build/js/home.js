@@ -1,0 +1,1 @@
+"use strict";document.getElementById("homeTest").textContent="Added Text";var a=function(a){console.log(a)};

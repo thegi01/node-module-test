@@ -1,0 +1,15 @@
+h1{
+    margin: 1rem;
+    color: green;
+}
+
+.home {
+    & .__text{
+        padding-top: 20px;
+        border-top: solid 1px #ddd;
+        font-size: 2rem;
+        color: #666;
+        margin: 1rem;
+    }
+}
+
